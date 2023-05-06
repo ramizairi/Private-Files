@@ -1,0 +1,18 @@
+C:\Users\hlinu\Desktop\Source Codes\Private Files\Private Files\bin\Debug\Private Files.exe.config
+C:\Users\hlinu\Desktop\Source Codes\Private Files\Private Files\bin\Debug\Private Files.exe
+C:\Users\hlinu\Desktop\Source Codes\Private Files\Private Files\bin\Debug\Private Files.pdb
+C:\Users\hlinu\Desktop\Source Codes\Private Files\Private Files\bin\Debug\Guna.UI2.dll
+C:\Users\hlinu\Desktop\Source Codes\Private Files\Private Files\obj\Debug\Private Files.csproj.AssemblyReference.cache
+C:\Users\hlinu\Desktop\Source Codes\Private Files\Private Files\obj\Debug\Private Files.csproj.SuggestedBindingRedirects.cache
+C:\Users\hlinu\Desktop\Source Codes\Private Files\Private Files\obj\Debug\Private_Files.Login.resources
+C:\Users\hlinu\Desktop\Source Codes\Private Files\Private Files\obj\Debug\Private_Files.Properties.Resources.resources
+C:\Users\hlinu\Desktop\Source Codes\Private Files\Private Files\obj\Debug\Private Files.csproj.GenerateResource.cache
+C:\Users\hlinu\Desktop\Source Codes\Private Files\Private Files\obj\Debug\Private Files.csproj.CoreCompileInputs.cache
+C:\Users\hlinu\Desktop\Source Codes\Private Files\Private Files\obj\Debug\Private Files.csproj.CopyComplete
+C:\Users\hlinu\Desktop\Source Codes\Private Files\Private Files\obj\Debug\Private Files.exe
+C:\Users\hlinu\Desktop\Source Codes\Private Files\Private Files\obj\Debug\Private Files.pdb
+C:\Users\hlinu\Desktop\Source Codes\Private Files\Private Files\obj\Debug\Private_Files.Forms.SignUp.resources
+C:\Users\hlinu\Desktop\Source Codes\Private Files\Private Files\obj\Debug\Private_Files.Forms.forgotpassword.resources
+C:\Users\hlinu\Desktop\Source Codes\Private Files\Private Files\obj\Debug\Private_Files.Forms.fileencp.resources
+C:\Users\hlinu\Desktop\Source Codes\Private Files\Private Files\obj\Debug\Private_Files.Forms.main.resources
+C:\Users\hlinu\Desktop\Source Codes\Private Files\Private Files\obj\Debug\Private_Files.Forms.text.resources
